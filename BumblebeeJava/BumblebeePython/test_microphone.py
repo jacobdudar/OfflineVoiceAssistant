@@ -1,17 +1,14 @@
 #!/usr/bin/env python3
-
 import argparse
 import os
 import queue
 import subprocess
-
 import sounddevice as sd
 import vosk
 import sys
 from playsound import playsound
 
 q = queue.Queue()
-
 
 def int_or_str(text):
     """Helper function for argument parsing."""
@@ -85,7 +82,7 @@ try:
                 if "\"\"" not in string:
                     with open("../test.txt", "w") as f:
                         f.write(string)
-                    subprocess.call("python demo.py --keywords bumblebee", shell=True)
+                    subprocess.call("python demo.py --access_key m0+HbUHSSsu05nwctd7Op66ahB3yq8qx1uFOvZxkGsCtD4M8uw0njQ== --keywords bumblebee alexa computer ", shell=True)
                     quit()
             if dump_fn is not None:
                 dump_fn.write(data)

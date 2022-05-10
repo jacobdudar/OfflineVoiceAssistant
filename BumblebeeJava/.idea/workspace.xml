@@ -5,12 +5,186 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eed7f1-c81c-45ff-a8ba-2488b50ff7b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllegrodeConcertOp.46inAMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Balladeno.1-Op.23.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Balladeno.2-Op.38.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Balladeno.3-Op.47.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Balladeno.4-Op.52.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BumblebeePython/Keywords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BumblebeePython/smartbulb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CanoninFminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FantasieImpromptuOp.66.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FantasyOp.49inFminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FugueinAminorB.144.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrandeValseBrillianteOp.18InEflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Impromptuno.1-Op.29.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Impromptuno.2-Op.36.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Impromptuno.3-Op.51.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.17no.3inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.17no.4inAminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.24no.2inCmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.24no.3inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.24no.4inBflatminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.50no.1inGmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.50no.2inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.50no.3inCsharpminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.56no.1inBmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.56no.2inCmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.56no.3inCminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.59no.1inAminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.59no.2inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.59no.3inFsharpminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.7no.3inFminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazurkaOp.7no.4inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneB.108inCminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneB.49inCsharpminor'Lentocongranespressione'(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneB.49inCsharpminor'Lentocongranespressione'(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.15no.1InFmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.27no.1inCsharpminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.32no.1inBmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.32no.2inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.48no.1inCminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.48no.2inFsharpminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.55no.1inFminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.55no.2inEflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.62no.2inEmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.72No.1InEMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.9No.1InBFlatMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.9No.3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp.9no.2inEflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp27No2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NocturneOp9No2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseB.13InBFlatMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseB.1InGMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseB.36InG-flatMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseB.5InAFlatMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseB.6InG-sharpMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseOp.26No.1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseOp.26No.2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseOp.53InAFlatMajorheroic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseOp.71No.1InDMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolonaiseOp.71No.2InBFlatMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polonaiseno.5-Op.40no.2_C-minor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.10.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.11.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.12.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.13.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.14.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.15.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.16.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.17.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.18.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.19.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.21.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.22.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.23.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.24.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreludeOp.28no.9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonataforPianoandCelloinGMinor,Op.65-I.AllegroModerato.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonataforPianoandCelloinGMinor,Op.65-II.Scherzo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonataforPianoandCelloinGMinor,Op.65-III.Largo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonataforPianoandCelloinGMinor,Op.65-IV.Finale.Allegro.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TarantelleOp.43.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valse.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValseMlancoliqueleRegretcharlesMayerOp.332.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VariationsInAMajorsouvenirDePaganiniB.37.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variationsforfluteandpiano.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzB.133inEflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzB.21InAFlatMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzB.46InEFlatMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzB.56InEMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.34No.2InAMinor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.34No.3InFMajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.64no.1inDflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.64no.2inCsharpminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.69no.1inAflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.69no.2inBminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.70no.1inGflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.70no.2inFminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaltzOp.70no.3inDflatmajor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Waltzno.18-op.posth_Eb-major.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Waltzno.19-op.posth_Aminor.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Waltzno.8-Op.64no.3_Ab-major.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiosna.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Alla-Turca.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/anotherdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/org/vosk/LogLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/vosk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alla-Turca.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/brightness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/vosk/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vosk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BumblebeePython/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/BumblebeePython/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BumblebeePython/test_microphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/BumblebeePython/test_microphone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/AudioPlayer$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AudioPlayer$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/AudioPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AudioPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringToMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringToMath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextToSpeech.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/TextToSpeech.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/about.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/about.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/coin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/command.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/commandClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/commandClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/commandInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/commandInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/config" beforeDir="false" afterPath="$PROJECT_DIR$/bin/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/date.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/delete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/joke.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/joke.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/list.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/list.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/notCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/notCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/notes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/notes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/read.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/repeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/repeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/search.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/stateMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stateMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/syntax.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/syntax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/time.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/timer$reminder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/timer$reminder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/weather.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/weather.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextToSpeech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextToSpeech.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config" beforeDir="false" afterPath="$PROJECT_DIR$/src/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stateMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stateMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -19,18 +193,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24pyMACdm7Vcz2sSj1AxwbPUc5M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.demo">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BumblebeeJava" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,17 +221,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BumblebeePython/demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="PARAMETERS" value="--access_key m0+HbUHSSsu05nwctd7Op66ahB3yq8qx1uFOvZxkGsCtD4M8uw0njQ== --keywords bumblebee" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_microphone.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="BumblebeeJava" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BumblebeePython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/BumblebeePython/test_microphone.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python tests.pytest in test_microphone.py" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.demo" />
+        <item itemvalue="Python tests.pytest in test_microphone.py" />
       </list>
     </recent_temporary>
   </component>
@@ -68,5 +266,19 @@
       <updated>1644341774528</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

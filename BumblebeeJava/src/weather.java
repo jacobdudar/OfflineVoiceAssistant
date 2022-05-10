@@ -1,10 +1,13 @@
-import org.json.JSONException;
-import org.json.JSONObject;
 import java.net.URI;
-import java.net.http.*;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.CompletionException;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 /**
  * @author Kyle Reddy
  *

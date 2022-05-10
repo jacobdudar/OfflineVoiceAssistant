@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/MaryTTS"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/MaryTTS+JSoup+Guava"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/No This is Patrick/Documents/GitHub/resources/json-20210307.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/No This is Patrick/Documents/GitHub/resources/jsoup-1.14.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/No This is Patrick/Documents/GitHub/resources/marytts-lang-en-5.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/No This is Patrick/Documents/GitHub/resources/marytts-runtime-5.2-jar-with-dependencies.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/No This is Patrick/Documents/GitHub/resources/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MaryTTS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MaryTTS+JSoup+Guava"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/json-20211205.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/marytts-builder-5.2/marytts-builder-5.2/lib/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/marytts-builder-5.2/marytts-builder-5.2/lib/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/OneDrive/Documents/GitHub/OfflineVoiceAssistant/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/porcupine-master/porcupine-master/demo/java/build/libs/porcupine-mic-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/vosk-api-master/vosk-api-master/java/demo/build/libs/demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/vosk-0.3.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/sphinx4-data-1.0.0/sphinx4-core-5prealpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/sphinx4-data-1.0.0/sphinx4-data-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/vosk-0.3.33-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/jna-5.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jacob/Downloads/leopard-java-1.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
