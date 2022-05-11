@@ -11,7 +11,7 @@ public class number extends commandClass implements commandInterface {
     ArrayList<String> commandPhrases = new ArrayList<String>();
 
     public number() {
-        commandPhrases.add("random number");
+        commandPhrases.add("number");
     }
 
     public boolean match(String word){

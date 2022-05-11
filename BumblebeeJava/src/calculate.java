@@ -10,9 +10,15 @@ import java.util.Scanner;
 
 public class calculate extends commandClass implements commandInterface{
     ArrayList<String> commandPhrases = new ArrayList<String>();
-
+    int daypass=0;
+    @Override
+	public boolean match(String token) {
+		return commandPhrases.contains(token);
+	}
+    
+    
     public calculate() {
-        commandPhrases.add("calculate date");
+        commandPhrases.add("calculate");
     }
     
     public String run(String [] command) {
@@ -35,6 +41,7 @@ System.out.print("Input the second date");
 	    long a = 1000 * 60 * 60 * 24;
 	    long day = l / a;
 	    long week = day / 7;
+	    daypass=(int) day;
 	System.out.println(day + "days betweeen two dates");
 	System.out.println(week + "weeks betweeen two dates");
 	} catch (ParseException e) {
@@ -42,6 +49,6 @@ System.out.print("Input the second date");
 		e.printStackTrace();
 	}
     
-return "okay";
+return daypass+ " days between the two dates";
 }
 }
